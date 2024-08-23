@@ -1,0 +1,26 @@
+version: 2.9.3
+apkFileName: chmp4_40.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 25
+  targetSdkVersion: 30
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 20329
+  versionName: 2.0.40
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  okhttp3/internal/publicsuffix/NOTICE: 8
+  z3/a.gz: 8
+doNotCompress:
+- resources.arsc
+- png
+- ogg
